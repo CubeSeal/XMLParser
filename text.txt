@@ -1,0 +1,7 @@
+"<part>Hello</part>"
+Just (Tag ("part",Attribute []),"Hello</part>")
+"Hello</part>"
+Nothing
+Just (Literal "Hello","</part>")
+"</part>"
+
